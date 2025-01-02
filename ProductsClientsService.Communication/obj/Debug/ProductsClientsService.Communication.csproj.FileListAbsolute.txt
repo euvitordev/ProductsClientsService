@@ -1,0 +1,10 @@
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Communication\bin\Debug\ProductsClientsService.Communication.dll
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Communication\bin\Debug\ProductsClientsService.Communication.pdb
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Communication\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Communication\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Communication\bin\Debug\Microsoft.Analytics.Types.dll
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Communication\obj\Debug\ProductsClientsService.Communication.csproj.AssemblyReference.cache
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Communication\obj\Debug\ProductsClientsService.Communication.csproj.CoreCompileInputs.cache
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Communication\obj\Debug\Products.FB0851E6.Up2Date
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Communication\obj\Debug\ProductsClientsService.Communication.dll
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Communication\obj\Debug\ProductsClientsService.Communication.pdb
