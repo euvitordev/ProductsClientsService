@@ -1,0 +1,10 @@
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Exceptions\bin\Debug\ProductsClientsService.Exceptions.dll
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Exceptions\bin\Debug\ProductsClientsService.Exceptions.pdb
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Exceptions\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Exceptions\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Exceptions\bin\Debug\Microsoft.Analytics.Types.dll
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Exceptions\obj\Debug\ProductsClientsService.Exceptions.csproj.AssemblyReference.cache
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Exceptions\obj\Debug\ProductsClientsService.Exceptions.csproj.CoreCompileInputs.cache
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Exceptions\obj\Debug\Products.F48E3693.Up2Date
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Exceptions\obj\Debug\ProductsClientsService.Exceptions.dll
+C:\www\Projetos CSharp\ProductsClientsService\ProductsClientsService.Exceptions\obj\Debug\ProductsClientsService.Exceptions.pdb
